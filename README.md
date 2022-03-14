@@ -2,8 +2,10 @@
 
 Curso voltado ao apredizado das funcionalidades do Flexbox
 
-### Screenshot
+## Screenshot
 
+### Desktop
 ![](layouts/alurinha-layout-desktop.png)
 
+### Mobile
 ![](layouts/alurinha-layout-mobile.png)
